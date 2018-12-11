@@ -1,0 +1,65 @@
+body {
+
+    background-color:  #white;
+
+}
+
+ {
+  color: black;
+  font-family: sans-serif:fantasy;
+
+
+}
+
+
+
+
+
+div {
+  border-color: maroon;
+}
+
+button {
+  color: black;
+}
+
+input[type=text] {
+    width: 25%;
+    height: 35px;
+    padding: 12px px;
+    margin: 8px 0;
+    border-bottom: 3px solid maroon;
+    border-top: 0px solid white;
+    border-right: 0px solid white;
+    border-left: 0px solid white;
+    display: inline-block;
+}
+
+textarea {
+    width: 25%;
+    height: 100px;
+    padding: 12px px;
+    margin: 8px 0;
+    border-bottom: 3px solid maroon;
+    border-top: 1px solid Maroon;
+    border-right: 1px solid maroon;
+    border-left: 1px solid maroon;
+    display: inline-block;
+}
+
+input[type=submit] {
+    font-style: bold;
+    width: 25%;
+    background-color: #AB0033; background-image: -webkit-gradient(linear, left top, left bottom, from(#AB0033), to(#6C0078));
+    background-image: -webkit-linear-gradient(top, #AB0033, #6C0078);
+    background-image: -moz-linear-gradient(top, #AB0033, #6C0078);
+    background-image: -ms-linear-gradient(top, #AB0033, #6C0078);
+    background-image: -o-linear-gradient(top, #AB0033, #6C0078);
+    background-image: linear-gradient(to bottom, #AB0033, #6C0078);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#AB0033, endColorstr=#6C0078);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

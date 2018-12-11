@@ -1,0 +1,18 @@
+body {
+
+    background-color: #2D2D2D;
+
+}
+
+* {
+  font-family: 'Pacifico', cursive ;
+
+
+}
+
+h2 {
+  color: white;
+}
+div {
+  border-color: blue;
+}
